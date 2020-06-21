@@ -1,0 +1,19 @@
+{
+    "item.mrdinkles.example_item": "Example Item",
+    "item.mrdinkles.la_croix": "La Croix",
+    "item.mrdinkles.example_sword": "Dinkle Sword",
+    "item.mrdinkles.example_pickaxe": "Dinkle Pickaxe",
+    "item.mrdinkles.example_shovel": "Dinkle Shovel",
+    "item.mrdinkles.example_axe": "Dinkle Axe",
+    "item.mrdinkles.example_hoe": "Dinkle Hoe",
+
+    "item.mrdinkles.dinkles_helmet": "Dinkles Helmet",
+    "item.mrdinkles.dinkles_chestplate": "Dinkles Chestplate",
+    "item.mrdinkles.dinkles_leggings": "Dinkles Leggings",
+    "item.mrdinkles.dinkles_boots": "Dinkles Boots",
+
+    "block.mrdinkles.example_block": "Example Block",
+    "block.mrdinkles.special_block": "Special Block",
+
+    "itemGroup.mr_dinkles_tab": "Mr Dinkles"
+}

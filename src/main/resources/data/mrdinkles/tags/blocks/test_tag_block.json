@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "mrdinkles:example_block",
+        "minecraft:diamond_block"
+    ]
+}

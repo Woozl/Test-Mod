@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "mrdinkles:block/example_block" }
+    }
+}

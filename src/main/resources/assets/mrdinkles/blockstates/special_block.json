@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": {"model": "mrdinkles:block/special_block" },
+        "facing=south": {"model": "mrdinkles:block/special_block", "y": 180 },
+        "facing=east": {"model": "mrdinkles:block/special_block", "y": 90 },
+        "facing=west": {"model": "mrdinkles:block/special_block", "y": 270}
+    }
+}
